@@ -1,0 +1,7 @@
+
+# Django core
+Django>=4.2
+
+# MySQL driver (pure-Python, easier to install on Windows)
+PyMySQL>=1.0
+
